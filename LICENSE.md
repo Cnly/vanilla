@@ -21,7 +21,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-This project contains code from the project dbyll, which is licensed under the MIT License:
+This project contains code from the project [dbyll](https://github.com/dbtek/dbyll), which is licensed under the MIT License:
 
 > The MIT License (MIT)
 
