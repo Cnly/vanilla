@@ -15,5 +15,12 @@ google_analytics: vanilla
 
 paginate: 10 # pagination based on number of posts
 
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+      author: Vanilla
+
 # Build settings
 markdown: kramdown
